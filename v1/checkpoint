@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/home/Desktop/UpX/git/DeepLearning/boston.ckpt"
+all_model_checkpoint_paths: "/Users/home/Desktop/UpX/git/DeepLearning/boston.ckpt"
